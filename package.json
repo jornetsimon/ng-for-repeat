@@ -1,12 +1,16 @@
 {
-  "name": "ng-for-repeat",
-  "version": "0.0.0",
+  "name": "ng-for-repeat-workspace",
+  "version": "1.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
     "test": "ng test",
-    "lint": "ng lint"
+    "lint": "ng lint",
+    "e2e": "ng e2e",
+    "lib:build:watch": "ng build ng-for-repeat --watch",
+    "lib:build:prod": "ng build ng-for-repeat --prod",
+    "lib:publish": "npm publish dist/ng-for-repeat"
   },
   "private": true,
   "dependencies": {
