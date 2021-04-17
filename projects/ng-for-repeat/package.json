@@ -1,0 +1,23 @@
+{
+	"name": "ng-for-repeat",
+	"version": "1.0.1",
+	"description": "A simple Angular directive to repeat an element",
+	"author": "Simon Jornet",
+	"keywords": [
+		"angular",
+		"repeat",
+		"iterate",
+		"ngFor"
+	],
+	"repository": "github:jornetsimon/ng-for-repeat",
+	"bugs": "https://github.com/jornetsimon/ng-for-repeat/issues",
+	"license": "MIT",
+	"homepage": "https://github.com/jornetsimon/ng-for-repeat",
+	"peerDependencies": {
+		"@angular/common": "> 8",
+		"@angular/core": "> 8"
+	},
+	"dependencies": {
+		"tslib": "^2.0.0"
+	}
+}

@@ -4,7 +4,7 @@
 ![Size](https://badgen.net/bundlephobia/min/react)
 ![Last commit](https://badgen.net/github/last-commit/jornetsimon/ng-for-repeat)
 
-🔁 A simple Angular directive to repeat an element.
+🔁 A simple Angular directive to repeat an element. 
 
 ## Installation
 
